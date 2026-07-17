@@ -1,0 +1,6 @@
+aws_ecomm_backend/
+│
+├── package.json
+├── server.js
+├── .gitignore
+└── README.md
